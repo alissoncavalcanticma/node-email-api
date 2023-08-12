@@ -1,21 +1,19 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="node_auths" />
+  <img src="./.github/app.gif" alt="node-email-api" />
 
   &#xa0;
-
-  <!-- <a href="https://node_auths.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">node_auths</h1>
+<h1 align="center">node-email-api</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/alissoncavalcanticma/node_auths?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/alissoncavalcanticma/node-email-api?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/alissoncavalcanticma/node_auths?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/alissoncavalcanticma/node-email-api?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/alissoncavalcanticma/node_auths?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/alissoncavalcanticma/node-email-api?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/alissoncavalcanticma/node_auths?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/alissoncavalcanticma/node-email-api?color=56BEB8">
 
 </p>
 
@@ -32,7 +30,7 @@
 
 ## :dart: About ##
 
-Projeto usado na aula de Authentication do curso de NodeJS da B7Web
+Projeto usado na aula de envio de e-mail do curso de NodeJS da B7Web
 
 ## :rocket: Technologies ##
 
@@ -49,13 +47,13 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/alissoncavalcanticma/node_auths
+$ git clone https://github.com/alissoncavalcanticma/node-email-api
 
 # Access
 $ cd node_auths
 
 # Install dependencies
-$ node i
+$ npm i
 
 # Run the project
 $ npm run start-dev
@@ -66,7 +64,7 @@ For registry of this project, see the [REGISTRY](registry.md) file.
 
 ## :memo: License ##
 
-This project is under license from GNU General Public License. For more details, see the [LICENSE](LICENSE.md) file.
+This project is under license from MIT License. For more details, see the [LICENSE](LICENSE.md) file.
 
 
 Made with :heart: by <a href="https://github.com/alissoncavalcanticma" target="_blank">Alisson Cavalcanti</a>
